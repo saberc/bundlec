@@ -1,0 +1,9 @@
+code: bundlec
+description: test
+bundle-type: system-level-bundle
+components:
+    contentTypes:
+    - contentTypes/lll-descriptor.yaml
+  contents:
+    - contents/lll7-descriptor.yaml
+    - contents/lll9-descriptor.yaml

@@ -1,0 +1,12 @@
+id: LLL9
+typeCode: LLL
+description: Contentlink1
+mainGroup: free
+status: PUBLIC
+attributes:
+  - code: link
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
